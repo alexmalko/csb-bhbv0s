@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://alexmalko.github.io/csb-bhbv0s/static/css/main.bf6b7e60.chunk.css",
+    "main.js": "https://alexmalko.github.io/csb-bhbv0s/static/js/main.96272d24.chunk.js",
+    "main.js.map": "https://alexmalko.github.io/csb-bhbv0s/static/js/main.96272d24.chunk.js.map",
+    "runtime-main.js": "https://alexmalko.github.io/csb-bhbv0s/static/js/runtime-main.4fee6a17.js",
+    "runtime-main.js.map": "https://alexmalko.github.io/csb-bhbv0s/static/js/runtime-main.4fee6a17.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "https://alexmalko.github.io/csb-bhbv0s/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.15f5c878.chunk.js": "https://alexmalko.github.io/csb-bhbv0s/static/js/2.15f5c878.chunk.js",
+    "static/js/2.15f5c878.chunk.js.map": "https://alexmalko.github.io/csb-bhbv0s/static/js/2.15f5c878.chunk.js.map",
+    "index.html": "https://alexmalko.github.io/csb-bhbv0s/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "https://alexmalko.github.io/csb-bhbv0s/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.bf6b7e60.chunk.css.map": "https://alexmalko.github.io/csb-bhbv0s/static/css/main.bf6b7e60.chunk.css.map",
+    "static/js/2.15f5c878.chunk.js.LICENSE.txt": "https://alexmalko.github.io/csb-bhbv0s/static/js/2.15f5c878.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fee6a17.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.15f5c878.chunk.js",
+    "static/css/main.bf6b7e60.chunk.css",
+    "static/js/main.96272d24.chunk.js"
+  ]
+}
